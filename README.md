@@ -20,7 +20,7 @@
 
 <body>
 
-	<h2>Gold Glove Elite</title>
+	<h2>Gold Glove Elite</h2>
 
 	<center><img src="http://lizerbramlaw.com/wp-content/uploads/2012/08/RawlingsGG1.jpg"></center>
 
